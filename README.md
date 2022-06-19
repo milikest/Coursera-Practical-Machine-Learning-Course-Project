@@ -17,8 +17,8 @@ The data for this project come from this source: http://groupware.les.inf.puc-ri
 # Dependencies
 Codes are written in R language (v 4.1.2)
 Libraries that used:
-caret--------v 6.0.92 
-gbm----------v 2.1.8
+---caret--------v 6.0.92-- 
+---gbm----------v 2.1.8--
 e1071--------v 1.7.9
 randomForest-v 4.7.1.1
 cvms---------v 1.3.3
