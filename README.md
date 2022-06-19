@@ -17,14 +17,14 @@ The data for this project come from this source: http://groupware.les.inf.puc-ri
 # Dependencies
 Codes are written in R language (v 4.1.2)
 Libraries that used:
-⋅⋅⋅caret--------v 6.0.92⋅⋅ 
-⋅⋅⋅gbm----------v 2.1.8⋅⋅ 
-e1071--------v 1.7.9
-randomForest-v 4.7.1.1
-cvms---------v 1.3.3
-tibble-------v 3.1.6
-ggimage------v 0.3.1
-rsvg---------v 2.3.1
+1. caret--------v 6.0.92 
+2. gbm----------v 2.1.8 
+3. e1071--------v 1.7.9
+4. randomForest-v 4.7.1.1
+5. cvms---------v 1.3.3
+6. tibble-------v 3.1.6
+7. ggimage------v 0.3.1
+8. rsvg---------v 2.3.1
 Codes can work with previous versions of packages but it wasn't tested for that.
 
 Here let me note a warning:
